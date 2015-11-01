@@ -356,7 +356,8 @@ header .contact {
 }
 
 header .contact {
-  padding-left: 16px
+  padding-left: 16px;
+  margin-top: 10px;
 }
 
 @media print or (max-width:767px) {
@@ -718,6 +719,7 @@ section {
 
 .experience-task {
   margin: 0;
+  margin-top: 9px;
   color: #008080;
 }
 
